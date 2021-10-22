@@ -1,16 +1,16 @@
 const help = (prefix) => {
 	return `
 
-⌜ *ѕнαηвσт ву ѕнαη∂υу* ⌟  
+⌜ *blackвσт ву axelin* ⌟  
 
 ◉ *INFORMACION*
    ○ Comando: ⌜ ${prefix} ⌟
-   ○ Creador: ѕнαη∂υу™ 
-   ○ Como instalar el bot: https://www.youtube.com/watch?v=2LQSzEbpJ-M
-   ○ Instagram: https://www.instagram.com/thepavos
+   ○ Creador: axelin™ 
+   
+   ○ Instagram: https://www.instagram.com/pollitoo_kun/
 
 ◉ *PARA USAR EL BOT*
-Registrate con el comando ${prefix}daftar y tu nombre
+Registrate con el comando ${prefix}Vectorga y tu nombre
 
 ◉ *NUEVOS COMANDOS*
 ○ ${prefix}banmenu
@@ -29,15 +29,11 @@ Interactua con el bot
 Diviértete con tus amigos :)
 ○ ${prefix}desmenu
 Descargar musica y videos
-○ ${prefix}version
-Conoce la versión de tu bot
+
 ○ ${prefix}welmenu
 Comando de bienvenida solo grupos
 
-◉ *RESUELVE TUS DUDAS*
-  ║
-  ╠ ○ ${prefix}creador
-  ╚ Dudas o problemas aqui
+
 
 ◉ *CREAR STICKERS*
   ║
@@ -105,7 +101,7 @@ Para activar los NSFW coloque el siguiente comando ${prefix}nsfw 1 y para desact
 No te olvides de seguirme en instagram flaco ;)
 
 
-_*by shanduy*_
+_*by axelin*_
 
 
 ⌜ *ごきげんよう :)* ⌟ 
