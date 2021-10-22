@@ -1,10 +1,10 @@
 const version = (prefix, pushname) => {
     return `
-*ѕнαηвσт ву ѕнαη∂υу*
+*blackвσт ву axelin*
 
-*Actualizado:* 18 de Septiembre del 2021
+*Actualizado:* 21 de octubre del 2021
 *Versión actual:* 4.0
-*Ofrecida por:* shanduy™
+*Ofrecida por:* AxelBlack™
 
 
 *INFORME*
@@ -12,20 +12,18 @@ const version = (prefix, pushname) => {
 Si no funciona el comando *play o *play2 checa el blog del bot y mira la version que poses 
 Ya que ire cambiando mi apikey de mi bot para que siga en funcionamiento
 Cambiare la apikey pasando un mes o si veo muchos atercados o robos
-Si vez a alguien que robo mi bot comunicate conmigo con el comando *creador
+Si vez a alguien que robo mi bot comunicate conmigo 
 
 
-*COMO ACTUALIZAR EL BOT*
 
-https://cutt.ly/dWp5uqE
 
 
 *SIGUEME EN INSTAGRAM 🥸🧉*
 
-https://www.instagram.com/thepavos
+https://www.instagram.com/pollitoo_kun/
 
 
-_*by shanduy*_
+_*by Axelin*_
 `
 
 }
