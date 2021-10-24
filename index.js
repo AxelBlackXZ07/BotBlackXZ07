@@ -1428,10 +1428,10 @@ break
 				
 //REGISTRO				
 
-case 'vectorga':
+case 'daftar':
 client.updatePresence(from, Presence.composing)
 if (isUser) return reply('Ya estas registrado 🧐')
-if (args.length < 1) return reply(`Incorrecto ❎\nComando: ${prefix}vectorga Nombre\n\nEjemplo: ${prefix}vectorga AxelBlack`)
+if (args.length < 1) return reply(`Incorrecto ❎\nComando: ${prefix}daftar Nombre\n\nEjemplo: ${prefix}daftar AxelBlack`)
 var reg = body.slice(8)
 var nombre = reg.split("|")[0];
 user.push(sender)
