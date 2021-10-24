@@ -10,7 +10,7 @@ const help = (prefix) => {
    ○ Instagram: https://www.instagram.com/pollitoo_kun/
 
 ◉ *PARA USAR EL BOT*
-Registrate con el comando ${prefix}Vectorga y tu nombre
+Registrate con el comando ${prefix}daftar y tu nombre
 
 ◉ *NUEVOS COMANDOS*
 ○ ${prefix}banmenu
